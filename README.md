@@ -27,9 +27,9 @@
 ## 📸 Screenshots (3)
 
 <p align="center">
-  <img src="public/screenshots/screenshot-1-main.png" alt="Main Screen" width="200">
-  <img src="public/screenshots/screenshot-3-accounts.png" alt="Derived Accounts" width="200">
-  <img src="public/screenshots/screenshot-4-import.png" alt="Import Vault" width="200">
+  <img src="screenshot-1-main.png" alt="Main Screen" width="200">
+  <img src="screenshot-3-accounts.png" alt="Derived Accounts" width="200">
+  <img src="screenshot-4-import.png" alt="Import Vault" width="200">
 </p>
 
 ---
@@ -132,9 +132,9 @@ We built PokeBit because we believe:
 ---
 
 <p align="center">
-  <strong>©2026 PokeBit</strong> by doctor.bitcoin
+  <strong>©2026 PokeBit</strong> by [doctor.bitcoin](https://ud.me/doctor.bitcoin)
 </p>
 
 <p align="center">
-  <a href="https://pokebit.lovable.app/privacy">📜 Privacy Policy</a>
+  <a href="https://pokebit.xyz/privacy">📜 Privacy Policy</a>
 </p>
