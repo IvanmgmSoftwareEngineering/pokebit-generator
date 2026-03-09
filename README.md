@@ -132,7 +132,7 @@ We built PokeBit because we believe:
 ---
 
 <p align="center">
-  <strong>©2026 PokeBit</strong> by <a href="[https://pokebit.xyz](https://ud.me/doctor.bitcoin)">doctor.bitcoin</a>
+  <strong>©2026 PokeBit</strong> by <a href="https://ud.me/doctor.bitcoin">doctor.bitcoin</a>
 </p>
 
 <p align="center">
