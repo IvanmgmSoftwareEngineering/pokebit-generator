@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://pokebit.xyz">🌐 Web App</a> •
-  <a href="#">🧩 Chrome Extension</a> •
+  <a href="https://chromewebstore.google.com/detail/pokebit-high-entropy-wall/jfeggeoablgcjdpeadembmajifdagbce">🧩 Chrome Extension</a> •
   <a href="https://pokebit.xyz/privacy">📜 Privacy Policy</a>
 </p>
 
@@ -76,7 +76,7 @@ Visit our secure web app - no installation required:
 ### Option 2: Chrome Extension
 Download from the Chrome Web Store for quick access from your browser toolbar:
 
-**👉 [Get PokeBit on Chrome Web Store](#)**
+**👉 [Get PokeBit on Chrome Web Store](https://chromewebstore.google.com/detail/pokebit-high-entropy-wall/jfeggeoablgcjdpeadembmajifdagbce)**
 
 ---
 
